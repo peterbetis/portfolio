@@ -33,7 +33,7 @@ export interface Job {
 export const experience: Job[] = [
   {
     period: "2023 — Present",
-    role: "Senior Frontend Engineer + AI",
+    role: "Senior Frontend Engineer",
     company: "Casumo",
     location: "Malta (remote)",
     description:
